@@ -1,4 +1,4 @@
-package com.example.randomagenda
+package com.jjlii.randomagenda
 
 import org.junit.Test
 

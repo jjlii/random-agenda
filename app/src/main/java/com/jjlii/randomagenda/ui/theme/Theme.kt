@@ -1,4 +1,4 @@
-package com.example.randomagenda.ui.theme
+package com.jjlii.randomagenda.ui.theme
 
 import android.app.Activity
 import android.os.Build

@@ -1,4 +1,4 @@
-package com.example.randomagenda.ui.theme
+package com.jjlii.randomagenda.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

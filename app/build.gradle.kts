@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.randomagenda"
-    compileSdk = 34
+    namespace = "com.jjlii.randomagenda"
+    compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.randomagenda"
+        applicationId = "com.jjlii.randomagenda"
         minSdk = 23
         targetSdk = 34
         versionCode = 1
